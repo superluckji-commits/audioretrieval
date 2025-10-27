@@ -1,0 +1,10 @@
+__pycache__/
+outputs/
+checkpoints/
+wandb/
+*.npy
+*.pt
+*.log
+.hf_env
+*.sbatch
+
